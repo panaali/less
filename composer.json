@@ -11,7 +11,7 @@
     ],
     "require": {
         "laravel/framework": ">=4.0",
-        "leafo/lessphp": "*"
+        "leafo/lessphp": "~0"
     },
     "autoload": {
         "psr-0": {"VTalbot\\Less": "src/"}
